@@ -4,7 +4,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Navbar from './Components/Navbar.jsx';
 import Home from './Components/Home.jsx';
 import About from './Components/About.jsx';
@@ -18,7 +18,7 @@ import MovieProvider from "./Context/ContextMovie";
 function App() {
   return (
     <MovieProvider>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
 
         <Routes>
@@ -33,7 +33,7 @@ function App() {
           <Route path="/movie/:id" element={<MovieDetail />} />
         </Routes>
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </MovieProvider>
   );
 }
