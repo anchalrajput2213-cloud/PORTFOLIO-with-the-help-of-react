@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "hero": "Leonardo DiCaprio",
+    "duration": "2h 28m",
+    "poster": "https://picsum.photos/300/450?random=1",
+    "description": "A skilled thief enters people's dreams to steal secrets. He is offered a chance to erase his criminal past by performing the impossible task of planting an idea into someone's mind."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Adventure, Sci-Fi",
+    "rating": 8.7,
+    "director": "Christopher Nolan",
+    "hero": "Matthew McConaughey",
+    "duration": "2h 49m",
+    "poster": "https://picsum.photos/id/238/300/450",
+    "description": "Earth is becoming uninhabitable, so a group of astronauts travels through a wormhole to find a new home for humanity."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action, Crime",
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "hero": "Christian Bale",
+    "duration": "2h 32m",
+    "poster": "https://m.media-amazon.com/images/I/81AJdOIEIhL._AC_SL1500_.jpg",
+    "description": "Batman faces his greatest enemy, the Joker, whose chaos pushes Gotham City to the edge and tests Batman's sense of justice."
+  },
+  {
+    "id": 4,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Fantasy, Adventure",
+    "rating": 7.9,
+    "director": "James Cameron",
+    "hero": "Sam Worthington",
+    "duration": "2h 42m",
+    "poster": "https://picsum.photos/id/240/300/450",
+    "description": "A former Marine travels to Pandora, where he becomes part of the Na'vi people and must choose between protecting them or following military orders."
+  }
+]
